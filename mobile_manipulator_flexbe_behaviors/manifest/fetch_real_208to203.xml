@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="fetch_real_208to203">
+
+	<executable package_path="mobile_manipulator_flexbe_behaviors.fetch_real_208to203_sm" class="fetch_real_208to203SM" />
+	<tagstring></tagstring>
+	<author>Yizheng Zhang</author>
+	<date>Mon Jul 06 2020</date>
+	<description>
+		The states set of mobile manipulator.
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

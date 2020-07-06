@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="bring_something_from_a_to_b">
+
+	<executable package_path="mobile_manipulator_flexbe_behaviors.bring_something_from_a_to_b_sm" class="bring_something_from_a_to_bSM" />
+	<tagstring></tagstring>
+	<author>Yizheng Zhang</author>
+	<date>Mon Jul 06 2020</date>
+	<description>
+		The states set of mobile manipulator.
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
